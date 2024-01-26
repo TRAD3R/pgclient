@@ -1,4 +1,4 @@
-module github.com/TRAD3R/logging
+module github.com/TRAD3R/pgclient
 
 go 1.21
 
